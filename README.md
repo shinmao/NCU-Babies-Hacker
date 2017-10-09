@@ -1,7 +1,7 @@
 # NCU-Babies-Hacker
 來自中央大學的一個小型資安讀書會  
 聯絡人信箱  
-:sparkles: shinmaox2016@gmail.com  
+:sparkles: rafaelchen@proton.com  
 :sparkles: bhgs1908@gmail.com  
 
 ## About our schedule
