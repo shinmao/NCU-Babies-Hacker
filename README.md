@@ -19,4 +19,14 @@
 下堂社課會開始提供共筆:+1:  
 學習內容：Buffer overflow,shellcode,ret2text技巧,stack protection的繞過,Lazy-binding的機制,ROP,stack migration技巧  
 
+### 10/08 club course
+***
+教材：[Bamboofox 106年下學期 format string的部分](https://bamboofox.github.io/tutorial/2016/09/27/106-club-course.html)  
+進度：檔案已經置放到github中，請將壓縮檔解壓縮即可得到題目  
+今天進度主要是了解Format String的漏洞是如何產生的？  
+上課期間實作了用Format String的攻擊方式*更動了Ｃ語言前面宣告的變數*以及用它*leak出canary*！:+1:    
+共筆：[Format String筆記](https://paper.dropbox.com/doc/Format-String-Vulnerability-Nnjj2yR5J59RFyq081ehi)  
+由於這是上課時邊趕出的筆記，格式及內容還沒有相對的完善，我們還會繼續進行補齊，*請隨時更新*！  
+下次讀書會時間以及繳交進度會在trello或者telegram中公布～  
+
 
