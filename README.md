@@ -31,13 +31,14 @@
 
 ### 10/18 club course
 ***
-分享內容：  
-[誰在幫我們malloc](https://rafaelchen.wordpress.com/2017/10/16/heap-malloc-or-free/)  
-[怎麼malloc](https://rafaelchen.wordpress.com/2017/10/17/heap-come-to-my-size/)    
-進度：概述wannacry流程，細部介紹加密細節  
-講解heap如何透過malloc和free在內存中分配空間  
-大致上內容有：arena的介紹，chunk的介紹，bin的介紹，最後流程圖會在做補上  
-備註：heap的內容真的比stack還要複雜很多:sweat_smile::sweat_smile:，回去可以搭配我上面的分享筆記閱讀，如果過程中有發現任何錯誤，歡迎留言糾正！  
+分享內容：   
+wannacry投影片已置放於sharing資料夾中    
+[誰在幫我們malloc](https://rafaelchen.wordpress.com/2017/10/16/heap-malloc-or-free/)    
+[怎麼malloc](https://rafaelchen.wordpress.com/2017/10/17/heap-come-to-my-size/)  
+進度：概述wannacry流程，細部介紹加密細節    
+講解heap如何透過malloc和free在內存中分配空間    
+大致上內容有：arena的介紹，chunk的介紹，bin的介紹，最後流程圖會在做補上    
+備註：heap的內容真的比stack還要複雜很多:sweat_smile::sweat_smile:，回去可以搭配我上面的分享筆記閱讀，如果過程中有發現任何錯誤，歡迎留言糾正！    
 
 
 
