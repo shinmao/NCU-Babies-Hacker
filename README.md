@@ -1,4 +1,4 @@
-# NCU-Babies-Hacker
+# NCU-Babies-Hacker(Working Branch)
 來自中央大學的一個小型資安讀書會  
 聯絡人信箱  
 :sparkles: rafaelchen@protonmail.com  
