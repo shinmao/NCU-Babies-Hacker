@@ -38,7 +38,23 @@ wannacry投影片已置放於sharing資料夾中
 進度：概述wannacry流程，細部介紹加密細節    
 講解heap如何透過malloc和free在內存中分配空間    
 大致上內容有：arena的介紹，chunk的介紹，bin的介紹，最後流程圖會在做補上    
-備註：heap的內容真的比stack還要複雜很多:sweat_smile::sweat_smile:，回去可以搭配我上面的分享筆記閱讀，如果過程中有發現任何錯誤，歡迎留言糾正！    
+備註：heap的內容真的比stack還要複雜很多:sweat_smile::sweat_smile:，回去可以搭配我上面的分享筆記閱讀，如果過程中有發現任何錯誤，歡迎留言糾正!  
+  
+### 10/29 club course  
+***  
+分享內容：  
+一探C++ Virtual Function秘辛:thumbsup:  
+置放於上面sharing資料夾內(window請自行轉換為ppt格式  
+進度：  
+**web security**  
+php基礎,sql基礎,information leak,xss,sql injection,LFI漏洞簡要介紹  
+第一次玩CTF嚇到吃手手  
+投影片以及練習網站不公布:copyright:  
+**密碼學**  
+Python ascii decode/encode  
+base64,caesar,substitution,Rail Fence,JSFuck,BrainFuck,RSA  
+投影片以及練習網站上前幾題payload已置放於crypto資料夾  
+之後會開放大家一起來解密XD :key:  
 
 
 
