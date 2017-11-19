@@ -12,15 +12,15 @@
   
 ## Enjoy us
 **For club**  
-<img src="https://github.com/shinmao/NCU-Babies-Hacker/blob/master/meeting/club.jpg">  
+<img src="https://github.com/shinmao/NCU-Babies-Hacker/blob/master/meeting/club.jpg" width="650" height="500">  
 **CTF**  
-<img src="https://github.com/shinmao/NCU-Babies-Hacker/blob/master/meeting/CTF.jpg">  
+<img src="https://github.com/shinmao/NCU-Babies-Hacker/blob/master/meeting/CTF.jpg" width="650" height="500">  
   
 ## Meeting Record  
 Date         | README
 ------------ | -------------
-2017/09/27 | helloworld  
-2017/10/08 | helloworld
-2017/10/18 | helloworld
-2017/10/29 | helloworld
-2017/11/19 | helloworld
+2017/09/27 | [17/09/27](https://github.com/shinmao/NCU-Babies-Hacker/blob/master/meeting/170927.md)  
+2017/10/08 | [17/10/08](https://github.com/shinmao/NCU-Babies-Hacker/blob/master/meeting/171008.md)
+2017/10/18 | [17/10/18](https://github.com/shinmao/NCU-Babies-Hacker/blob/master/meeting/171018.md)
+2017/10/29 | [17/10/29](https://github.com/shinmao/NCU-Babies-Hacker/blob/master/meeting/171029.md)
+2017/11/19 | [17/11/19](https://github.com/shinmao/NCU-Babies-Hacker/blob/master/meeting/171119.md)
