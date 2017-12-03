@@ -18,6 +18,7 @@ Date         | README
 2017/10/18 | [社課進度](https://github.com/shinmao/NCU-Babies-Hacker/blob/master/meeting/171018.md)
 2017/10/29 | [社課進度](https://github.com/shinmao/NCU-Babies-Hacker/blob/master/meeting/171029.md)
 2017/11/19 | [社課進度](https://github.com/shinmao/NCU-Babies-Hacker/blob/master/meeting/171119.md)  
+2017/12/03 | [社課進度](https://github.com/shinmao/NCU-Babies-Hacker/blob/master/meeting/171203.md)  
   
 
 ## Enjoy us
